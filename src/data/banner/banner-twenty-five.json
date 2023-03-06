@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/banner/shop_banner_img1.webp",
+    "title": "Для мужчин",
+    "subtitle": "Balenciaga <br>& Brioni",
+    "text": "скидка 20%",
+    "link": "/product/5"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/banner/shop_banner_img2.webp",
+    "title": "Для женщин",
+    "subtitle": "Gucci <br>& Prada",
+    "text": "распродажа 30%",
+    "link": "/product/6"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/banner/shop_banner_img3.webp",
+    "title": "Детская одежда",
+    "subtitle": "Molo <br>& Jog Dog",
+    "text": "скидка 40%",
+    "link": "/product/4"
+  }
+]

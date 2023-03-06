@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "iconClass": "pe-7s-note2",
+    "countNum": 1360,
+    "title": "Принято заказов"
+  },
+  {
+    "id": "2",
+    "iconClass": "pe-7s-car",
+    "countNum": 3690,
+    "title": "Доставлнено товаров"
+  },
+  {
+    "id": "3",
+    "iconClass": "pe-7s-users",
+    "countNum": 200,
+    "title": "Поставщиков товаров"
+  },
+  {
+    "id": "4",
+    "iconClass": "pe-7s-smile",
+    "countNum": 1220,
+    "title": "Счастливых клиентов"
+  }
+]

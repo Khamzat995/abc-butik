@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/team/manager_1.webp",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Бурак Озчивит",
+    "position": "Старший менеджер"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/team/manager_2.webp",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Озге Торер",
+    "position": "Менеджер по продажам"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/team/manager_3.webp",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Бусе Арслан",
+    "position": "Кассир"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/team/manager_4.webp",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Эмре Башалак",
+    "position": "Товарный инспектор"
+  }
+]
